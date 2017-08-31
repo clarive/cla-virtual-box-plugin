@@ -15,14 +15,14 @@
         name: 'command',
         fieldLabel: _('Command'),
         data: [
-            ['startvm',_('Start vm')],
-            ['controlvm',_('Control vm')],
-            ['clonevm',_('Clone vm')],
+            ['startvm',_('Start')],
+            ['controlvm',_('Control')],
+            ['clonevm',_('Clone')],
             ['list',_('List')],
-            ['createvm',_('Create vm')],
-            ['modifyvm',_('Modify vm')],
-            ['registervm',_('Register vm')],
-            ['unregistervm',_('Unregister vm')],
+            ['createvm',_('Create')],
+            ['modifyvm',_('Modify')],
+            ['registervm',_('Register')],
+            ['unregistervm',_('Unregister')],
             ['custom',_('Custom command')]
         ],
         value: data.command || 'startvm',
@@ -33,9 +33,9 @@
 
     var argumentsTextField = Cla.ui.arrayGrid({
         name: 'virtualBoxArgs',
-        fieldLabel: _('VirtualBox parameters'),
+        fieldLabel: _('Parameters'),
         value: params.data.virtualBoxArgs,
-        description: _('VirtualBox parameters'),
+        description: _('Parameters'),
         default_value: '.',
     });
 

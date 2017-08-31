@@ -27,41 +27,41 @@ msgid "Command"
 msgstr "Comando"
 
 #: public/form/virtualBox-form.js
-msgid "Start vm"
-msgstr "Iniciar vm"
+msgid "Start"
+msgstr "Iniciar"
 
 #: public/form/virtualBox-form.js
-msgid "Control vm"
-msgstr "Controlar vm"
+msgid "Control"
+msgstr "Controlar"
 
 #: public/form/virtualBox-form.js
-msgid "Clone vm"
-msgstr "Clonar vm"
+msgid "Clone"
+msgstr "Clonar"
 
 #: public/form/virtualBox-form.js
 msgid "List"
 msgstr "Listar"
 
 #: public/form/virtualBox-form.js
-msgid "Create vm"
-msgstr "Crear vm"
+msgid "Create"
+msgstr "Crear"
 
 #: public/form/virtualBox-form.js
-msgid "Modify vm"
-msgstr "Modificar vm"
+msgid "Modify"
+msgstr "Modificar"
 
 #: public/form/virtualBox-form.js
-msgid "Register vm"
-msgstr "Registrar vm"
+msgid "Register"
+msgstr "Registrar"
 
 #: public/form/virtualBox-form.js
-msgid "Unregister vm"
-msgstr "Borrar vm"
+msgid "Unregister"
+msgstr "Borrar"
 
 #: public/form/virtualBox-form.js
 msgid "Custom command"
 msgstr "Comando personalizado"
 
 #: public/form/virtualBox-form.js
-msgid "VirtualBox parameters"
-msgstr "Parámetros de VirtualBox"
+msgid "Parameters"
+msgstr "Parámetros"
