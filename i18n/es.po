@@ -1,0 +1,67 @@
+#: init/virtualBox-service.js
+msgid "Manage VirtualBox"
+msgstr "Controlar VirtualBox"
+
+#: init/virtualBox-service.js
+msgid "VirtualBox execute"
+msgstr "Ejecución de VirtualBox"
+
+#: init/virtualBox-service.js
+msgid "No option selected"
+msgstr "Ninguna opción seleccionada"
+
+#: init/virtualBox-service.js
+msgid "Executing VirtualBox command: "
+msgstr "Ejecutando el comando de VirtualBox: "
+
+#: init/virtualBox-service.js
+msgid "VirtualBox command executed: "
+msgstr "Comando de VirtualBox ejecutado: "
+
+#: public/form/virtualBox-form.js
+msgid "Server"
+msgstr "Servidor"
+
+#: public/form/virtualBox-form.js
+msgid "Command"
+msgstr "Comando"
+
+#: public/form/virtualBox-form.js
+msgid "Start vm"
+msgstr "Iniciar vm"
+
+#: public/form/virtualBox-form.js
+msgid "Control vm"
+msgstr "Controlar vm"
+
+#: public/form/virtualBox-form.js
+msgid "Clone vm"
+msgstr "Clonar vm"
+
+#: public/form/virtualBox-form.js
+msgid "List"
+msgstr "Listar"
+
+#: public/form/virtualBox-form.js
+msgid "Create vm"
+msgstr "Crear vm"
+
+#: public/form/virtualBox-form.js
+msgid "Modify vm"
+msgstr "Modificar vm"
+
+#: public/form/virtualBox-form.js
+msgid "Register vm"
+msgstr "Registrar vm"
+
+#: public/form/virtualBox-form.js
+msgid "Unregister vm"
+msgstr "Borrar vm"
+
+#: public/form/virtualBox-form.js
+msgid "Custom command"
+msgstr "Comando personalizado"
+
+#: public/form/virtualBox-form.js
+msgid "VirtualBox parameters"
+msgstr "Parámetros de VirtualBox"
