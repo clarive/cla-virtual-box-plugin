@@ -1,4 +1,4 @@
-name: Clarive VirtualBox Plugin
+name: VirtualBox Plugin
 description: The VirtualBox plugin will allow you to execute VirtualBox command in Clarive and view its result.
 version: 1.0
 icon: https://cdn.rawgit.com/clarive/cla-virtualbox-plugin/master/public/icon/virtualBox.svg?sanitize=true
