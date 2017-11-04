@@ -31,6 +31,13 @@
         singleMode: true
     });
 
+    var userTextField = Cla.ui.textField({
+        name: 'user',
+        fieldLabel: _('User'),
+        value: data.user || '',
+        allowBlank: true
+    });
+
     var argumentsTextField = Cla.ui.arrayGrid({
         name: 'virtualBoxArgs',
         fieldLabel: _('Parameters'),
@@ -56,6 +63,7 @@
         layout: 'form',
         items: [
             serverComboBox,
+            userTextField,
             commandComboBox,
             argumentsTextField,
             errorBox
