@@ -1,6 +1,6 @@
 # VirtualBox Plugin
 
-<img src="https://cdn.rawgit.com/clarive/cla-virtualbox-plugin/master/public/icon/virtualBox.svg?sanitize=true" alt="VirtualBox Plugin" title="VirtualBox Plugin" width="120" height="120">
+<img src="https://cdn.jsdelivr.net/gh/clarive/cla-virtualbox-plugin@master/public/icon/virtualBox.svg?sanitize=true" alt="VirtualBox Plugin" title="VirtualBox Plugin" width="120" height="120">
 
 The VirtualBox plugin will allow you to execute VirtualBox command in Clarive and view its result.
 
